@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="park-order" />
+        <module name="park-sms" />
+        <module name="park-common-mybatis" />
+        <module name="park-common-core" />
+        <module name="park-parkinfo" />
+        <module name="park-eureka" />
+        <module name="park-user" />
+        <module name="park-gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mypark-common" target="8" />
+      <module name="park-login" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="MyPark" options="-parameters" />
+      <module name="mypark-common" options="-parameters" />
+      <module name="park-common" options="" />
+      <module name="park-common-core" options="-parameters" />
+      <module name="park-common-mybatis" options="-parameters" />
+      <module name="park-eureka" options="-parameters" />
+      <module name="park-gateway" options="-parameters" />
+      <module name="park-login" options="-parameters" />
+      <module name="park-order" options="-parameters" />
+      <module name="park-parkinfo" options="-parameters" />
+      <module name="park-sms" options="-parameters" />
+      <module name="park-user" options="-parameters" />
+    </option>
+  </component>
+</project>

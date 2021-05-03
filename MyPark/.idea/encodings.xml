@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/park-common/park-common-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/park-common/park-common-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/park-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/park-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/park-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/park-parkinfo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/park-sms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/park-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/park-user/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
